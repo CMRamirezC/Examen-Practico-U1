@@ -1,0 +1,21 @@
+C:\Users\PC\source\repos\Archivos ED\1\bin\Debug\1.exe.config
+C:\Users\PC\source\repos\Archivos ED\1\bin\Debug\1.exe
+C:\Users\PC\source\repos\Archivos ED\1\bin\Debug\1.pdb
+C:\Users\PC\source\repos\Archivos ED\1\obj\Debug\Archivos ED.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\Archivos ED\1\obj\Debug\Archivos ED.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Archivos ED\1\obj\Debug\1.exe
+C:\Users\PC\source\repos\Archivos ED\1\obj\Debug\1.pdb
+C:\Users\Cesar\source\repos\Archivos ED\1\bin\Debug\1.exe.config
+C:\Users\Cesar\source\repos\Archivos ED\1\bin\Debug\1.exe
+C:\Users\Cesar\source\repos\Archivos ED\1\bin\Debug\1.pdb
+C:\Users\Cesar\source\repos\Archivos ED\1\obj\Debug\Archivos ED.csprojAssemblyReference.cache
+C:\Users\Cesar\source\repos\Archivos ED\1\obj\Debug\Archivos ED.csproj.CoreCompileInputs.cache
+C:\Users\Cesar\source\repos\Archivos ED\1\obj\Debug\1.exe
+C:\Users\Cesar\source\repos\Archivos ED\1\obj\Debug\1.pdb
+D:\Archivos ED\1\bin\Debug\1.exe.config
+D:\Archivos ED\1\bin\Debug\1.exe
+D:\Archivos ED\1\bin\Debug\1.pdb
+D:\Archivos ED\1\obj\Debug\Archivos ED.csprojResolveAssemblyReference.cache
+D:\Archivos ED\1\obj\Debug\Archivos ED.csproj.CoreCompileInputs.cache
+D:\Archivos ED\1\obj\Debug\1.exe
+D:\Archivos ED\1\obj\Debug\1.pdb
